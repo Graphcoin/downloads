@@ -11,7 +11,7 @@ See the wiki for setup guides
 
 ## In Terminal, run the following command:
 
-// /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+'/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
 
 ## Once the package manager has been installed, run this command: 
 
