@@ -6,4 +6,4 @@
 
 ### Once the package manager has been installed, run this command: 
 
-`// brew install boost`
+`brew install boost`
