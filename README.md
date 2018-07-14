@@ -5,6 +5,8 @@ Compiled daemon also available for Ubuntu 16.04
 
 See the wiki for setup guides
 
+
+
 For Mac OS X High Sierra -
 
 In Terminal, run the following command:
