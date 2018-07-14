@@ -10,9 +10,9 @@ See the wiki for setup guides
 1.  Click in the wallet menu "Tools -> Open Wallet Configuration File"
 2.  Copy and paste the following data into the notepad -
 
-`addnode=178.128.14.55
-addnode=178.128.3.233
-addnode=159.203.99.229`
+`addnode=178.128.14.55`
+`addnode=178.128.3.233`
+`addnode=159.203.99.229`
 
 3.  Save the file, and restart wallet
 
