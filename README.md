@@ -14,6 +14,7 @@ See the wiki for setup guides
 * addnode=178.128.3.233
 * addnode=159.65.205.213
 * addnode=139.59.137.51
+* addnode=159.65.251.84
 
 3.  Save the file, and restart wallet
 
