@@ -10,6 +10,7 @@ See the wiki for setup guides
 1.  Click in the wallet menu "Tools -> Open Wallet Configuration File"
 2.  Copy and paste the following data into the notepad -
 
+
 * addnode=178.128.14.55
 * addnode=178.128.3.233
 * addnode=159.65.205.213
@@ -17,6 +18,7 @@ See the wiki for setup guides
 * addnode=159.65.251.84
 * addnode=178.128.102.184
 * addnode=209.97.178.6
+* addnode=188.166.105.42
 * addnode=178.128.55.137
 * addnode=206.189.121.233
 
