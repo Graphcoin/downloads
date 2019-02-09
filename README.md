@@ -11,7 +11,7 @@ See the wiki for setup guides
 2.  Copy and paste the following data into the notepad -
 
 
-*addnode=199.247.27.78:22629
+addnode=199.247.27.78:22629
 addnode=185.162.251.192:22629
 addnode=95.179.141.91:22629
 addnode=94.16.121.144:22629
