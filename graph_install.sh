@@ -6,7 +6,7 @@ CONFIGFOLDER='/root/.GraphcoinCore'
 COIN_DAEMON='graphcoind'
 COIN_CLI='graphcoin-cli'
 COIN_PATH='/usr/local/bin/'
-COIN_TGZ='https://github.com/Graphcoin/source/releases/download/v2.0.2/Graph-cli-d.zip'
+COIN_TGZ='https://github.com/jdimon/source/releases/download/v3.0.2/Graph-cli-d.zip'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='Graph'
 COIN_PORT=22629
@@ -150,31 +150,6 @@ maxconnections=256
 masternode=1
 externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
-#Addnodes
-addnode=104.248.62.172:22629
-addnode=206.189.70.158:22629
-addnode=167.99.97.152:22629
-addnode=149.28.202.177:22629
-addnode=[2001:19f0:ac01:21d:5400:01ff:fed5:29f7]:22629
-addnode=[2001:19f0:ac01:21d:5400:01ff:fed5:29f8]:22629
-addnode=[2001:19f0:ac01:21d:5400:01ff:fed5:29f9]:22629
-addnode=[2001:19f0:ac01:21d:5400:01ff:fed5:2911]:22629
-addnode=199.247.27.78:22629
-addnode=185.162.251.192:22629
-addnode=95.179.141.91:22629
-addnode=94.16.121.144:22629
-addnode=37.221.193.200:22629
-addnode=95.216.81.34:22629
-addnode=80.211.60.189:22629
-addnode=142.93.125.230:22629
-addnode=168.62.38.187:22629
-addnode=138.197.163.226:22629
-addnode=54.39.96.184:22629
-addnode=104.156.254.141:22629
-addnode=144.202.69.213:22629
-addnode=207.246.98.90:22629
-addnode=149.28.75.41:22629
-addnode=173.199.126.21:22629
 EOF
 }
 
