@@ -1,4 +1,4 @@
-# For Mac OS X High Sierra+ -
+# For Mac OS X High Sierra+
 
 ### In Terminal, run the following command:
 
