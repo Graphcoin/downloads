@@ -8,7 +8,7 @@
 
 `brew install boost`
 
-### If the app continues to crash after several "Reopen" attempts:
+# If the app continues to crash after several "Reopen" attempts:
 
 1. Left-click on the app, and "Show Package Contents"
 2. Go to Contents -> MacOS -> "Graphcoin-Qt"
