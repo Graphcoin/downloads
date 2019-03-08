@@ -6,7 +6,7 @@
 
 ### Once the package manager has been installed, run this command: 
 
-`brew install boost`
+`brew install boost@1.57`
 
 # If the app continues to crash after several "Reopen" attempts:
 
